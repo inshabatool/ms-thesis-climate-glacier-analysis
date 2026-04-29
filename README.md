@@ -1,6 +1,6 @@
 # ms-thesis-climate-glacier-analysis
 
-# MSc Thesis  
+# MS Thesis  
 
 Title: Exploration of Anomalous glaciers behavior in response to climate variability in the Karakoram Region  
 Author: Insha Batool  
